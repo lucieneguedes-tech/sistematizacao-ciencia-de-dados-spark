@@ -35,6 +35,6 @@ Projeto prático desenvolvido no ecossistema distribuído Apache (Pyspark) no am
    -**Cluster 2 (Alto Risco):** Indivíduos com obesidade e elevado número de dias com limitações físicas graves, taxa de 29,34%.
 
    ## Execução
-   O código integral, com as consultas e as saídas executadas encontra-se no ficheiro
+   O código integral, com as consultas e as saídas executadas encontra-se no ficheiro 'notebook_diabetes_pyspark.ipynb'.
 
     
