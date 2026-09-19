@@ -1,4 +1,7 @@
 # Sistematização em Ciência de Dados II Pyspark
+
+Luciene da Silva Guedes RA:72500531
+
 Projeto prático desenvolvido no ecossistema distribuído Apache (Pyspark) no ambiente Google Colab, com foco na análise preditiva e estratificação de risco de diabetes mellitus a partir de dados populacionais do BRFSS 2015. 
 
 ## Estrutura do Pipeline
@@ -30,5 +33,8 @@ Projeto prático desenvolvido no ecossistema distribuído Apache (Pyspark) no am
    -**Cluster 0 (Risco Moderado):** Idosos funcionais com boa autonomia física, taxa de 17,93%.
    
    -**Cluster 2 (Alto Risco):** Indivíduos com obesidade e elevado número de dias com limitações físicas graves, taxa de 29,34%.
+
+   ## Execução
+   O código integral, com as consultas e as saídas executadas encontra-se no ficheiro
 
     
